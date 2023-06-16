@@ -1,1 +1,1 @@
-console.log("pushed to github")
+console.log("pushed to git")
